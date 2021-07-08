@@ -1,6 +1,6 @@
 #Aluna: Noani Barbieri
 #Materia: Eletronica Basica 
-#Questão LAB 01
+#LAB 01
 
 #Definindo a biblioteca
 import math
