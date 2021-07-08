@@ -1,6 +1,0 @@
-1- Como deseja a corrente maxima do circuito, devemos pegar o valor maximo de tensão sendo 10 neste caso e dividir pelo valor dado no diodo de 25mA, achando 400 pro resistor.
-2- Figura ja montada e inserinda no word.
-3- Variar as tensões(0 a 10) e pegar os valores.
-4- Variar as tensoes (0 a 30) e pegar os valores.
-5- Fazer o grafico.
-Reunir e organizar em um relatório.
